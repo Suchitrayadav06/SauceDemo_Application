@@ -1,0 +1,13 @@
+16:17:02.386 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\coal1\eclipse-workspace\SauceDemo\master.xml
+
+16:17:07.027 [main] INFO  testCases.TC001_ValidLoginTest - Starting LoginTestCase
+16:17:07.027 [main] INFO  testCases.TC001_ValidLoginTest - Login info
+16:17:07.327 [main] INFO  testCases.TC001_ValidLoginTest - Validating the expected message
+16:17:07.339 [main] INFO  testCases.TC001_ValidLoginTest - Finishing LoginTestCase
+16:18:29.937 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\coal1\eclipse-workspace\SauceDemo\master.xml
+
+16:20:45.799 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\coal1\eclipse-workspace\SauceDemo\master.xml
+

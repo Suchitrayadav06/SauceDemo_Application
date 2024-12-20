@@ -1,0 +1,67 @@
+17:35:04.417 [main] INFO  testCases.TC001_ValidLoginTest - Starting LoginTestCase
+17:35:04.445 [main] INFO  testCases.TC001_ValidLoginTest - Login info
+17:35:04.801 [main] INFO  testCases.TC001_ValidLoginTest - Validating the expected message
+17:35:04.811 [main] INFO  testCases.TC001_ValidLoginTest - Finishing LoginTestCase
+17:36:31.359 [main] INFO  testCases.TC001_ValidLoginTest - Starting LoginTestCase
+17:36:31.389 [main] INFO  testCases.TC001_ValidLoginTest - Login info
+17:36:31.717 [main] INFO  testCases.TC001_ValidLoginTest - Validating the expected message
+17:36:31.727 [main] INFO  testCases.TC001_ValidLoginTest - Finishing LoginTestCase
+18:31:30.526 [main] INFO  testCases.TC001_ValidLoginTest - Starting LoginTestCase
+18:31:30.532 [main] INFO  testCases.TC001_ValidLoginTest - Login info
+18:31:30.894 [main] INFO  testCases.TC001_ValidLoginTest - Validating the expected message
+18:31:30.900 [main] INFO  testCases.TC001_ValidLoginTest - Finishing LoginTestCase
+18:32:15.211 [main] INFO  testCases.TC001_ValidLoginTest - Starting LoginTestCase
+18:32:15.211 [main] INFO  testCases.TC001_ValidLoginTest - Login info
+18:32:15.605 [main] INFO  testCases.TC001_ValidLoginTest - Validating the expected message
+18:32:15.605 [main] INFO  testCases.TC001_ValidLoginTest - Finishing LoginTestCase
+19:23:38.176 [main] INFO  testCases.TC001_ValidLoginTest - Starting LoginTestCase
+19:23:38.180 [main] INFO  testCases.TC001_ValidLoginTest - Login info
+19:23:38.555 [main] INFO  testCases.TC001_ValidLoginTest - Validating the expected message
+19:23:38.561 [main] INFO  testCases.TC001_ValidLoginTest - Finishing LoginTestCase
+19:24:19.082 [main] INFO  testCases.TC001_ValidLoginTest - Starting LoginTestCase
+19:24:19.085 [main] INFO  testCases.TC001_ValidLoginTest - Login info
+19:24:19.442 [main] INFO  testCases.TC001_ValidLoginTest - Validating the expected message
+19:24:19.450 [main] INFO  testCases.TC001_ValidLoginTest - Finishing LoginTestCase
+19:24:30.930 [main] INFO  testCases.TC001_ValidLoginTest - Starting LoginTestCase
+19:24:30.930 [main] INFO  testCases.TC001_ValidLoginTest - Login info
+19:24:31.368 [main] INFO  testCases.TC001_ValidLoginTest - Validating the expected message
+19:24:31.368 [main] INFO  testCases.TC001_ValidLoginTest - Finishing LoginTestCase
+19:27:12.086 [TestNG-tests-1] INFO  testCases.TC001_ValidLoginTest - Starting LoginTestCase
+19:27:12.106 [TestNG-tests-1] INFO  testCases.TC001_ValidLoginTest - Login info
+19:27:12.490 [TestNG-tests-1] INFO  testCases.TC001_ValidLoginTest - Validating the expected message
+19:27:12.506 [TestNG-tests-1] INFO  testCases.TC001_ValidLoginTest - Finishing LoginTestCase
+19:27:13.671 [TestNG-tests-2] INFO  testCases.TC001_ValidLoginTest - Starting LoginTestCase
+19:27:13.674 [TestNG-tests-2] INFO  testCases.TC001_ValidLoginTest - Login info
+19:27:14.045 [TestNG-tests-2] INFO  testCases.TC001_ValidLoginTest - Validating the expected message
+19:27:14.058 [TestNG-tests-2] INFO  testCases.TC001_ValidLoginTest - Finishing LoginTestCase
+19:27:18.571 [TestNG-tests-3] INFO  testCases.TC001_ValidLoginTest - Starting LoginTestCase
+19:27:18.574 [TestNG-tests-3] INFO  testCases.TC001_ValidLoginTest - Login info
+19:27:19.012 [TestNG-tests-3] INFO  testCases.TC001_ValidLoginTest - Validating the expected message
+19:27:19.013 [TestNG-tests-3] INFO  testCases.TC001_ValidLoginTest - Finishing LoginTestCase
+22:20:05.205 [main] INFO  testCases.TC001_ValidLoginTest - Starting LoginTestCase
+22:20:05.209 [main] INFO  testCases.TC001_ValidLoginTest - Login info
+22:20:05.662 [main] INFO  testCases.TC001_ValidLoginTest - Validating the expected message
+22:20:05.666 [main] INFO  testCases.TC001_ValidLoginTest - Finishing LoginTestCase
+18:28:14.413 [main] INFO  testCases.TC001_ValidLoginTest - Starting LoginTestCase
+18:28:14.416 [main] INFO  testCases.TC001_ValidLoginTest - Login info
+18:28:14.697 [main] INFO  testCases.TC001_ValidLoginTest - Validating the expected message
+18:28:14.704 [main] INFO  testCases.TC001_ValidLoginTest - Finishing LoginTestCase
+15:46:04.052 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\coal1\eclipse-workspace\SauceDemo\master.xml
+
+15:58:34.123 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\coal1\eclipse-workspace\SauceDemo\master.xml
+
+16:14:08.431 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\coal1\eclipse-workspace\SauceDemo\master.xml
+
+16:14:43.483 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\coal1\eclipse-workspace\SauceDemo\master.xml
+
+16:16:41.396 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\coal1\eclipse-workspace\SauceDemo\master.xml
+
+16:16:45.045 [main] INFO  testCases.TC001_ValidLoginTest - Starting LoginTestCase
+16:16:45.072 [main] INFO  testCases.TC001_ValidLoginTest - Login info
+16:16:45.421 [main] INFO  testCases.TC001_ValidLoginTest - Validating the expected message
+16:16:45.432 [main] INFO  testCases.TC001_ValidLoginTest - Finishing LoginTestCase
